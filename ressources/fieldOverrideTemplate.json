@@ -1,0 +1,19 @@
+{
+    "matcher": {
+      "id": "byName",
+      "options": "<mac>"
+    },
+    "properties": [
+      {
+        "id": "displayName",
+        "value": "<newDisplayName>"
+      },
+      {
+        "id": "color",
+        "value": {
+          "fixedColor": "<hexColor>",
+          "mode": "fixed"
+        }
+      }
+    ]
+  }
