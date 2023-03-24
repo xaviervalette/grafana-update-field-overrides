@@ -73,7 +73,7 @@ Dashboard <firstDashboardUid> overrides updated successfully
 Dashboard <lastDashboardUid> overrides updated successfully
 ```
 Example:
-```json
+```console
 Dashboard UdGt5bb4z overrides updated successfully
 Dashboard ynTKlg-Vz overrides updated successfully
 ```
