@@ -4,6 +4,25 @@
 ## What is it ?
 Python script to update field overrides on Grafana Dashboards via API
 
+<table>
+<tr>
+<th width="800px"> Before </th> <th width="800px"> After </th>
+</tr>
+<tr>
+<td>
+
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/28600326/227658919-f456d47c-9feb-40b1-8969-59fa332de0fc.png">
+
+</td>
+<td>
+    
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/28600326/227658933-dd3b79b2-88db-4b8a-86a4-36de869d3592.png">
+    
+</td>
+</tr>
+</table>
+
+
 ## Prerequisites
 - Grafana Dashboard
 - Grafana API key
