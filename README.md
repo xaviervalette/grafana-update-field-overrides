@@ -94,5 +94,4 @@ Dashboard <lastDashboardUid> overrides updated successfully
 Example:
 ```console
 Dashboard UdGt5bb4z overrides updated successfully
-Dashboard ynTKlg-Vz overrides updated successfully
 ```
