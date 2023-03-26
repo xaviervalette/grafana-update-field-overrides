@@ -11,7 +11,7 @@ def generateOverrides(deviceList, colorPalette):
             color = colorPalette[i]
         except:
             color = "#049fd9"
-        overrideTemplate["matcher"]["options"] = device["mac"]
+        overrideTemplate["matcher"]["options"] = device["field"]
         overrideTemplate["properties"][0]["value"] = device["name"]
         overrideTemplate["properties"][1]["value"]["fixedColor"] = f"{color}"
         overrides.append(json.loads(json.dumps(overrideTemplate)))
