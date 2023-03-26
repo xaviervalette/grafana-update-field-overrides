@@ -57,19 +57,19 @@ dashboards:
 - uid: "<firstDashboardUid>"
   folderUid: "<firstDashboardFolderUid>"
   fieldOverrides:
-  - mac: "<firstField>"
+  - field: "<firstField>"
     name: "<firstFieldTargetName>"
 #[...]
-  - mac: "<lastField>"
+  - field: "<lastField>"
     name: "<lastFieldTargetName>"
 #[...]
 - uid: "<lastDashboardUid>"
   folderUid: "<lastDashboardFolderUid>"
   fieldOverrides:
-  - mac: "<firstField>"
+  - field: "<firstField>"
     name: "<firstFieldTargetName>"
 #[...]
-  - mac: "<lastField>"
+  - field: "<lastField>"
     name: "<lastFieldTargetName>"
 colorPalette:
 - "#DFFF00"
