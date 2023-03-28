@@ -20,6 +20,12 @@ Python script to update field overrides on Grafana Dashboards via API
     
 </td>
 </tr>
+<tr>
+<td>
+Raw data from Meraki Dashboard, client MAC address displayed
+</td>
+<td>
+Custom fields added, client name displayed
 </table>
 
 
